@@ -67,7 +67,7 @@
                    &kp LALT  &kp LGUI  &second  &kp LS(LEFT_ALT)  &kp SPACE     &kp ENTER  &kp BACKSPACE  &second  &kp RGUI   &kp RALT
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
+            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP &inc_dec_kp PG_DN PG_UP>;
         };
 
         FUCK {
